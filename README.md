@@ -1,6 +1,6 @@
 # E-commerce Sales Analysis — MySQL
 
-Projeto pessoal de análise de dados com MySQL, utilizando uma base fictícia de uma loja virtual. O objetivo é praticar exploração, limpeza, consultas analíticas e transformação de dados em indicadores úteis para o negócio.
+Projeto pessoal de análise de dados com MySQL, utilizando uma base fictícia de uma loja virtual. O objetivo é praticar exploração, consultas analíticas e transformação de dados em indicadores úteis para o negócio.
 
 > **Aviso:** todos os dados são sintéticos e foram criados exclusivamente para fins educacionais.
 
@@ -49,7 +49,8 @@ mysql-ecommerce-analysis/
 └── queries/
     ├── 01_exploracao.sql
     ├── 02_analises_intermediarias.sql
-    └── 03_analises_avancadas.sql
+    ├── 03_analises_avancadas.sql
+    └── 04_interpretacao_de_negocio.sql
 ```
 
 ## Decisões e limitações da base
